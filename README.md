@@ -1,4 +1,4 @@
-# Statistical Methods for Doctoral Students (Applied Software Engineering Track)
+# Statistical Methods for Doctoral Students
 
 Welcome to the course repository for **Statistical Methods**. 
 
